@@ -1,0 +1,10 @@
+export 'package:widgets_app/presentation/screens/buttons/buttons_screen.dart';
+export 'package:widgets_app/presentation/screens/cards/cards_screen.dart';
+export 'package:widgets_app/presentation/screens/containers/container_screen.dart';
+export 'package:widgets_app/presentation/screens/controls/control_screen.dart';
+export 'package:widgets_app/presentation/screens/dialogos/dialogo_screen.dart';
+export 'package:widgets_app/presentation/screens/home/home_screen.dart';
+export 'package:widgets_app/presentation/screens/indicators/progress_indicator_screen.dart';
+export 'package:widgets_app/presentation/screens/scroll/scroll_screen.dart';
+export 'package:widgets_app/presentation/screens/slider/slider_screen.dart';
+export 'package:widgets_app/presentation/screens/state/state_screen.dart';
